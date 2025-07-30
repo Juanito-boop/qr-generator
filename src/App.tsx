@@ -1,7 +1,6 @@
 import Header from './components/Header';
 import QrAdminPanel from './components/QrAdminPanel';
 import Features from './components/Features';
-import Footer from './components/Footer';
 
 function App() {
   return (
@@ -23,7 +22,6 @@ function App() {
       </main>
       
       <Features />
-      <Footer />
     </div>
   );
 }
