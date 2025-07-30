@@ -1,0 +1,21 @@
+{
+  "name": "QR Generator Pro",
+  "short_name": "QR Generator",
+  "description": "Generador de códigos QR gratuito y personalizable",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "lang": "es",
+  "dir": "ltr"
+} 
